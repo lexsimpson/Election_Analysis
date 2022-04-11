@@ -3,6 +3,9 @@ Module 3 using Python
 ## Overview
 The purpose of this project was to help a Colorado board of elections employee named Tom do an election audit on several counties in the area.
 ## Election Results
+
+![Screen Shot 2022-04-11 at 4 36 27 PM](https://user-images.githubusercontent.com/98988407/162850221-5ad6c631-4cc2-4b97-a33f-2efa1ef442e0.png)
+
   * There were 369,711 total votes cast
   * The county breakdown of votes and percentages of total votes for each county is: Jefferson 10.5% or 38,855 votes, Denver 82.8% or 306,055 votes, Arapahoe 6.7% or 24,801 votes
   * Denver had the largest number of votes
